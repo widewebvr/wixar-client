@@ -1,2 +1,2 @@
-# wixar-launcher
-Launcher for Wixar
+# wixar-client
+Client for Wixar
